@@ -1,3 +1,14 @@
+#Testing Guidance:
+1-Add Task: Type the task in the input field and press Enter or click Add Task. Check the task in the list, also. 
+2-Click on Remove in a specific task Verify the task is removed.
+3-Click on any task to COMPLETE Verify it gets style line-through to show it was completed.
+4- Input Validation: Add a Task with the same title and no description. Verify it doesn't get added.
+5- LocalStorage: Reload the page, and see if the tasks continue to display. 
+6-Task filtering: The default view shows all of your tasks, but you can filter to only see tasks that have been completed, are not completed, or all tasks.
+7- A dropdown will let you sort by the first column, so very you will be able to sort all tasks alphabetical (a-z or z-a). 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
